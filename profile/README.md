@@ -5,7 +5,7 @@ BrawlTools is a powerful all in one Brawl Stars Discord Bot, which includes all 
 Invite: https://brawltools.net/invite
 
 ## Developer
-Web Developer: https://github.com/Tredoxx
+Web Developer: https://github.com/Tredoxx <br>
 Bot Developer: https://github.com/Bubu-py
 
 ## Links
