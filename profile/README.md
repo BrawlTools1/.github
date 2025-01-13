@@ -6,7 +6,7 @@ Invite: https://brawltools.net/invite
 
 ## Developer
 Web Developer: https://github.com/Tredoxx <br>
-Bot Developer: https://github.com/Bubu-py
+Bot Developer: https://github.com/Bubu-py <br>
 API Developer: https://github.com/DEV-DIBSTER
 
 ## Links
