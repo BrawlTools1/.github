@@ -12,7 +12,7 @@ API Developer: https://github.com/DEV-DIBSTER
 ## Links
 Discord: https://brawltools.net/discord <br>
 Website: https://brawltools.net <br>
-Documentation https://brawltools.net/documentation
+Documentation https://docs.brawltools.net/
 
 ## Disclaimer
 This material is unofficial and is not endorsed by Supercell. For more information see Supercell's Fan Content Policy: www.supercell.com/fan-content-policy.
